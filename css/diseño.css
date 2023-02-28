@@ -28,6 +28,21 @@ h1, h2, h3 {
 }
 .descripcion{
     display: none;
+    
+}
+
+button {
+  background-color: #95A5FF; /* Green */
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   border-radius: 12px;
 }
 /* Diseño para pc*/
 .col-1 {width: 8.33%;}
